@@ -22,7 +22,7 @@ twitter: your_twitter_id  # Do not include the '@' symbol
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    Mill Liao is a Ph.D. student in Computer Science at the University of New South Wales (UNSW), focusing on robust multimodal representation learning, adversarial machine learning, and scalable vision-language models. His recent research explores the robustness of unified encoders such as ImageBind and UniBind under adversarial attacks. He holds a Master of Data Science from the University of Sydney..
+    Mill Liao is a Ph.D. student in Computer Science at the University of New South Wales (UNSW), focusing on robust multimodal representation learning, adversarial machine learning, and scalable vision-language models. His recent research explores the robustness of unified encoders such as ImageBind and UniBind under adversarial attacks. He holds a Master of Data Science from the University of Sydney.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
