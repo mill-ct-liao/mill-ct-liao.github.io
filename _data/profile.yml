@@ -4,14 +4,14 @@ navbar_name: "Mill Liao"
 
 positions:
 - logo: /assets/images/badges/unsw.png  # Logo is optional
-  name: Ph.D. Student in Computer Science
+  name: PhD Student in Computer Science
 - name: 
 
 
 email: "mill.ct.liao@gmail.com"
 # cv_link: link-to-your-cv-file
 gscholar: L2foaOkAAAAJ&hl  # This is an example, replace it with your own Google Scholar ID
-github: your_github_id
+github: mill-ct-liao
 twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
@@ -22,7 +22,7 @@ twitter: your_twitter_id  # Do not include the '@' symbol
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    Mill Liao is a Ph.D. student in Computer Science at the University of New South Wales (UNSW), focusing on robust multimodal representation learning, adversarial machine learning, and scalable vision-language models. His recent research explores the robustness of unified encoders such as ImageBind and UniBind under adversarial attacks. He holds a Master of Data Science from the University of Sydney.
+    Mill Liao is a PhD student in Computer Science at the School of Computer Science and Engineering, University of New South Wales, focusing on robust multimodal representation learning, adversarial machine learning, and scalable vision-language models. His recent research explores the robustness of unified encoders such as ImageBind and UniBind under adversarial attacks. He holds a Master of Data Science from the University of Sydney.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
@@ -33,8 +33,8 @@ education:
 - name: University of New South Wales
   logo: /assets/images/badges/unsw.png
   position: >- 
-    School of Computer Science and Engineering <br/>
-    Ph.D. in Computer Science
+    School of Computer Science and Engineering (CSE) <br/>
+    PhD in Computer Science
   date: Sep. 2025 - present
 - name: University of Sydney
   logo: /assets/images/badges/usyd.png
@@ -48,8 +48,8 @@ education:
 #   date: Sep. 2019 - Jul. 2021
 
 awards:
-- name: EDRES (Engineering Domestic Research Excellence Scholarship), University of New South Wales
+- name: Engineering Domestic Research Excellence Scholarship (EDRES), Faculty of Engineering, University of New South Wales
   date: 2025
-- name: Australian Government RTP (Research Training Program) Stipend + FEIT (Faculty of Engineering and IT) Top-Up, University of Technology Sydney
+- name: Australian Government Research Training Program (RTP) Stipend + Faculty of Engineering and IT Top-Up, University of Technology Sydney
   date: 2025
 
