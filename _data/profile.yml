@@ -1,0 +1,55 @@
+primary_name: "Mill Liao"
+secondary_name: ""
+navbar_name: "Mill Liao"
+
+positions:
+- logo: /assets/images/badges/unsw.png  # Logo is optional
+  name: PhD Student in Computer Science, UNSW Sydney
+- name: Visiting Researcher, NExT++ Latent Knowledge Group, NUS
+
+
+email: "mill.ct.liao@gmail.com"
+# cv_link: link-to-your-cv-file
+gscholar: https://scholar.google.com/citations?user=L2foaOkAAAAJ&hl=en
+github: mill-ct-liao
+twitter: your_twitter_id  # Do not include the '@' symbol
+# wechat_qrcode: /assets/images/etc/wechat.jpg
+# wechat_prompt: >-
+#   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
+# linkedin: your-linked-in-id
+# orcid: 0000-0000-0000-0000
+
+short_bio_text_justify: false
+short_bio: >-
+  <p>
+    Mill Liao (Chih-Ting Liao) is a PhD student in Computer Science at the School of Computer Science and Engineering, University of New South Wales, and a Visiting Researcher with the NExT++ Latent Knowledge Group at the National University of Singapore. His research centers on mechanistic interpretability and latent knowledge in vision-language (VLM) and vision-language-action (VLA) models, with the broader goal of building trustworthy multimodal reasoning systems. He studies how models internally represent spatial and temporal structure, when their reasoning is genuinely grounded in visual evidence rather than driven by priors, and how these internal mechanisms can be measured and repaired. He is currently also a Research Intern at Crest Robotics.
+  </p>
+
+portrait_url: /assets/images/photos/portrait.jpg
+portrait_caption: >-
+  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+
+education:
+- name: University of New South Wales
+  logo: /assets/images/badges/unsw.png
+  position: >- 
+    School of Computer Science and Engineering (CSE) <br/>
+    PhD in Computer Science
+  date: Sep. 2025 - present
+- name: University of Sydney
+  logo: /assets/images/badges/usyd.png
+  position: Master of Data Science (Distinction)
+  date: Sep. 2020 - Jul. 2021
+
+# experience:
+# - name: Peking University
+#   logo: /assets/images/badges/PKU_red.png
+#   position: Research Intern
+#   date: Sep. 2019 - Jul. 2021
+
+awards:
+- name: Engineering Domestic Research Excellence Scholarship (EDRES), Faculty of Engineering, University of New South Wales
+  date: 2025
+- name: Australian Government Research Training Program (RTP) Stipend and Faculty of Engineering and IT Top-Up, University of Technology Sydney
+  date: 2025
+
