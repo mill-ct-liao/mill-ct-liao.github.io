@@ -6,7 +6,7 @@ pub:            "arXiv preprint"
 pub_date:       "2025"
 pub_last:       ' <span class="badge badge-pill badge-publication badge-secondary">Under review</span>'
 abstract: >-
-  TODO: add a 1~2 sentence TLDR. Improving adversarial robustness of unified multi-modal encoders (e.g. ImageBind / UniBind) via efficient calibration.
+  Improving adversarial robustness of unified multi-modal encoders (e.g. ImageBind / UniBind) via efficient calibration.
 authors:
   - Chih-Ting Liao
   - Z. Chen
