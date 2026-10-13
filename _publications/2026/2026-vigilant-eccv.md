@@ -5,19 +5,22 @@ selected:       true
 pub:            "European Conference on Computer Vision (ECCV)"
 pub_date:       "2026"
 abstract: >-
-  TODO: add a 1~2 sentence TLDR of VIGILant here.
-# cover:          /assets/images/covers/cover2.jpg
+  VIGIL aligns multimodal language models with visual evidence by contrasting their responses with and without access to the image. Penalizing confidence that persists in the counterfactual blind state reduces hallucinations and improves visual reasoning while preserving text-only capabilities.
 authors:
-  # NOTE: the Scholar author list is truncated ("..."); add any remaining co-authors.
-  - X. Xiao
-  - C. Liu
+  - Xi Xiao
+  - Chen Liu
   - Chih-Ting Liao
-  - Y. Zhang
-  - Q. Lan
-  - Y. Wei
-  - L. Zhao
-  - J. Wang
-  - J. Gu
+  - Yunbei Zhang
+  - Qizhen Lan
+  - Yuxiang Wei
+  - Lin Zhao
+  - Janet Wang
+  - Jianyang Gu
+  - Muchao Ye
+  - Tianyang Wang
+  - Hao Xu
 links:
-  # TODO: add Paper / Code links when available.
+  Paper: https://arxiv.org/abs/2606.26387
+  Code: https://github.com/xixiaouab/VIGIL
+  Project: https://xixiaouab.github.io/VIGIL/
 ---
